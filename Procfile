@@ -1,1 +1,1 @@
-python poly_collector.py
+web: python poly_collector.py
